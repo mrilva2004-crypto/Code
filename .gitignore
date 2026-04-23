@@ -15,11 +15,16 @@ venv.bak/
 .idea/
 *.swp
 *.swo
+*~
 
 # Project specific
-favorites.json
+weather_data.json
 *.log
 
 # OS
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
