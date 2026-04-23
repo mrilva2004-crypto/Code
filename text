@@ -1,0 +1,38 @@
+
+## Инструкция по работе с Git
+
+Выполните следующие команды:
+
+```bash
+# Создание и переход в директорию проекта
+mkdir weather-diary
+cd weather-diary
+
+# Инициализация Git репозитория
+git init
+
+# Создание файлов (скопируйте код из main.py, README.md и .gitignore)
+# ...
+
+# Проверка статуса
+git status
+
+# Добавление всех файлов в staging
+git add .
+
+# Создание коммита
+git commit -m "Initial commit: Weather Diary application with full functionality"
+
+# Просмотр истории коммитов
+git log --oneline
+
+# Добавление remote репозитория (замените username на ваш)
+git remote add origin https://github.com/your-username/weather-diary.git
+
+# Отправка на GitHub
+git branch -M main
+git push -u origin main
+
+# Создание тега для версии 1.0
+git tag -a v1.0 -m "First stable release of Weather Diary"
+git push origin v1.0
