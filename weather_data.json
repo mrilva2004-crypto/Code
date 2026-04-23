@@ -1,0 +1,14 @@
+[
+  {
+    "date": "2024-01-15",
+    "temperature": 5.0,
+    "description": "Пасмурно, легкий ветер",
+    "precipitation": "Нет"
+  },
+  {
+    "date": "2024-01-16",
+    "temperature": 12.0,
+    "description": "Солнечно",
+    "precipitation": "Нет"
+  }
+]
