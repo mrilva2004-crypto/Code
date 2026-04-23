@@ -1,7 +1,7 @@
 # Weather Diary - Дневник погоды
 
 ## Автор
-**Сычук Александр** (Anna Smirnova)
+**Александр Сычук** (Alexander Sychuk)
 
 ## Описание программы
 
@@ -29,5 +29,5 @@ Weather Diary - это desktop-приложение с графическим и
 
 1. **Клонируйте репозиторий**
 ```bash
-git clone 
+git clone https://github.com/mrilva2004-crypto/Code.git
 cd weather-diary
